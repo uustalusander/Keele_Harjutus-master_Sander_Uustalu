@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Harjutus</string>
+    <string name="animal_name_dog">Koera nimi</string>
+    <string name="animal_name_cat">Kassi nimi</string>
+    <string name="animal_name_snake">Ussi nimi</string>
+    <string name="button">Nupp</string>
+    <string name="title">Tiitel</string>
+</resources>

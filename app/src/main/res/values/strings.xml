@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harjutus</string>
+    <string name="animal_name_dog">Dog</string>
+    <string name="animal_name_cat">Cat</string>
+    <string name="animal_name_snake">Snake</string>
+    <string name="button">Button</string>
+    <string name="title">Animal parade</string>
+</resources>

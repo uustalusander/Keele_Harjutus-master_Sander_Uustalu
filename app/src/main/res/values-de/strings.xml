@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Harjutus</string>
+    <string name="animal_name_dog">Name Der Hundes</string>
+    <string name="animal_name_cat">Name Der Katze</string>
+    <string name="animal_name_snake">Name Der Schlange</string>
+    <string name="button">Titel</string>
+    <string name="title">Taste</string>
+</resources>
